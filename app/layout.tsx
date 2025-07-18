@@ -12,9 +12,9 @@ const inter = Inter({ subsets: ["latin"] })
 
 
 export const metadata: Metadata = {
-  title: "Ultimate and Continental Automobile | Exotic Car Dealership in Abuja",
+  title: "Ultimate and Continental Automobile | Exotic Car Dealership in Jos",
   description:
-    "Experience the extraordinary with Ultimate and Continental Automobile's curated collection of the world's finest exotic vehicles in Abuja.",
+    "Experience the extraordinary with Ultimate and Continental Automobile's curated collection of the world's finest exotic vehicles in Jos.",
 }
 
 export default function RootLayout({
